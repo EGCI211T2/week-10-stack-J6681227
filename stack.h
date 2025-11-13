@@ -17,6 +17,9 @@ void Stack::push(int x){
   NodePtr new_node=new NODE(x);
   if(new_node){
             // Left missing for exercises…
+            //connect to previous top
+            //change top
+            //change size
    }
  
          // Left missing for exercises…
